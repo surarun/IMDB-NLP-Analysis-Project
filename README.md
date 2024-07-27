@@ -1,7 +1,9 @@
 
 The Internet Movie Database, or IMDb for short, is a database that contains details about movies, TV shows, home videos, video games, and streaming content. It also includes personal biographies of the cast, crew, and other relevant personnel, narrative summaries, trivia, ratings, and reviews from both fans and critics.The Aim of this project is to automatically extract Positive and negative feedback on a movie from IMDB reviews.
 
-`<br>Following are the steps that are followed in order to clean the dataset are as outlined`<br>
+`<br>
+Following are the steps that are followed in order to clean the dataset are as outlined`
+<br>
   - Raw Datset EDA(expolratory Data Analysis)
   - Data cleaning
   - Data Tokenization
