@@ -1,0 +1,1 @@
+The Internet Movie Database, or IMDb for short, is a database that contains details about movies, TV shows, home videos, video games, and streaming content. It also includes personal biographies of the cast, crew, and other relevant personnel, narrative summaries, trivia, ratings, and reviews from both fans and critics.
